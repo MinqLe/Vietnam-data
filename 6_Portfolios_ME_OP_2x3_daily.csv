@@ -1,10 +1,3 @@
-This file was created by CMPT_ME_BEME_OP_INV_RETS_DAILY using the 202406 CRSP database.
-It contains value- and equal-weighted returns for portfolios formed on ME and OP.
-
-The portfolios are constructed at the end of June.  OP is operating profits (sales - cost
-of goods sold - selling, general and administrative expenses - interest expense) divided by book
-at the last fiscal year end of the prior calendar year.
-Annual returns are from January to December.
 ,SMALL LoOP,ME1 OP2,SMALL HiOP,BIG LoOP,ME2 OP2,BIG HiOP
 19630701,  -0.71,  -0.78,  -0.68,  -0.67,  -0.66,  -0.64
 19630702,   0.66,   0.62,   0.32,   0.77,   0.76,   0.94

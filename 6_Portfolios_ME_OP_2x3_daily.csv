@@ -5,21 +5,6 @@ The portfolios are constructed at the end of June.  OP is operating profits (sal
 of goods sold - selling, general and administrative expenses - interest expense) divided by book
 at the last fiscal year end of the prior calendar year.
 Annual returns are from January to December.
-
-Missing data are indicated by -99.99 or -999.
-
-Please be aware that some of the value-weight averages of operating profitability for
-deciles 1 and 10 are extreme. These are driven by extraordinary values of OP for
-individual firms. We have spot checked the accounting data that produce the
-extraordinary values and all the numbers we examined accurately reflect the
-data in the firm’s accounting statements.
-
-The break points include utilities and include financials.
-
-The  portfolios  include utilities and include financials.
-
-
-  Average Value Weighted Returns -- Daily
 ,SMALL LoOP,ME1 OP2,SMALL HiOP,BIG LoOP,ME2 OP2,BIG HiOP
 19630701,  -0.71,  -0.78,  -0.68,  -0.67,  -0.66,  -0.64
 19630702,   0.66,   0.62,   0.32,   0.77,   0.76,   0.94
